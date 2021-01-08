@@ -42,7 +42,7 @@ Number of VMs in cluster: 138
 Clustered VM: True
 Cluster group: CLOUDDC2
 Cluster startup priority: 2000
-Host: ASCENTIS-HCI201
+Host: HostName
 State: Running
 Status: Operating normally
 VM ID: 859b5aad-9b80-4ca2-a59c-8ad6ec0b5bbb
